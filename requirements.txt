@@ -1,0 +1,2 @@
+kconfiglib==14.1.0
+meson==1.5.1
